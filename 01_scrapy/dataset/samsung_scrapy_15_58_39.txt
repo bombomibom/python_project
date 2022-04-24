@@ -1,0 +1,20 @@
+,제품명,링크
+0,갤럭시,https://www.samsung.com/sec/galaxy/home/
+1,스마트폰,https://www.samsung.com/sec/smartphones/galaxy-s/
+2,태블릿,https://www.samsung.com/sec/tablets/galaxy-tabs/
+3,워치,https://www.samsung.com/sec/watches/galaxy-watch-active/
+4,버즈,https://www.samsung.com/sec/buds/galaxy-buds-pro/
+5,갤럭시북,https://www.samsung.com/sec/pc/galaxybook/
+6,프린터,https://www.samsung.com/sec/printers/laser-multifunction/
+7,TV,https://www.samsung.com/sec/tvs/
+8,Lifestyle TV,https://www.samsung.com/sec/lifestyletv/home/
+9,BESPOKE,https://www.samsung.com/sec/bespoke/home/
+10,냉장고,https://www.samsung.com/sec/refrigerators/bespoke-infinite-line/
+11,김치냉장고,https://www.samsung.com/sec/kimchi-refrigerators/bespoke-kimchi-plus-infinite-line/
+12,식기세척기,https://www.samsung.com/sec/dishwashers/bespoke-dishwashers/
+13,전기레인지,https://www.samsung.com/sec/electric-range/bespoke-induction/
+14,세탁기,https://www.samsung.com/sec/washing-machines/grande-ai/
+15,건조기,https://www.samsung.com/sec/dryers/grande-ai/
+16,에어드레서,https://www.samsung.com/sec/airdresser/bespoke-airdresser/
+17,에어컨,https://www.samsung.com/sec/air-conditioners/gallery/
+18,공기청정기,https://www.samsung.com/sec/air-cleaners/bespoke-cube/
